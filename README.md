@@ -1,4 +1,3 @@
-# Nedim's Portfolio
 This is my portfolio showcasing Data Science projects I have worked on and developed.
 
 # Project 1: Review of Basic Python Concepts
@@ -35,3 +34,11 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 * Performed ANOVA, T-Test, and Chi-Square tests.
 * Compared several groups of data to determine variable significance.
 * Built a linear regression model to analyze/visualize the relationship between significant variables in the dataset.
+
+# Project 7: Hypothesis Testing, Single Regression Analysis, and Gradient Descent
+* Formulated hypothesis given problem statement.
+* Performed regression analysis to test hypothesis. 
+* Accepted/rejected null hypothesis comparing significance of two variables.
+* Performed Gradient Descent analysis.
+* Plotted the loss function over the iterations.
+
