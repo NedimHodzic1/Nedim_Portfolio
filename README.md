@@ -30,3 +30,8 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 * Performed data analysis on a queried dataset.
 * Computed summary statistics and plotted distributions.
 * Computed correlations between variables and graphed a histogram of results. 
+
+# Project 6: Statistical Tests of Variable Significance, Group Comparisons, and Regression
+* Performed ANOVA, T-Test, and Chi-Square tests.
+* Compared several groups of data to determine variable significance.
+* Built a linear regression model to analyze/visualize the relationship between significant variables in the dataset.
