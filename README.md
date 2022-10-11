@@ -2,10 +2,10 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 
 # [Project 1: Review of Basic Python Concepts](https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%201:%20Review%20of%20Basic%20Python%20Concepts)
 * Wrote fuctions which return the following to the user :
-* 1. String in the YYYY-MM-DD format and an integer n
-* 2. Factorials
-* 3. Palindrome (T/F)
-* 4. Change using integer c between 1 and 99
+* String in the YYYY-MM-DD format and an integer n
+* Factorials
+* Palindrome (T/F)
+* Change using integer c between 1 and 99
 
 # [Project 2: Introduction to Queries, Dataframes, & Data Visualization](https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%202:%20Introduction%20to%20Queries%2C%20Data%20frames%2C%20%26%20Data%20Visualization)
 * Created a query to browse a database (pgadmin).
@@ -47,8 +47,8 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 * Performed multiple regression analysis to test hypothesis. 
 * Accepted/rejected null hypothesis comparing significance of two variables.
 * Detected assumption violations by testing for the following:
-* 1. Collinearity
-* 2. Model Fit
-* 3. Outliers
-* 4. Linearity & Constant Variance
-* 5. Normality
+* Collinearity
+* Model Fit
+* Outliers
+* Linearity & Constant Variance
+* Normality
