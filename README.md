@@ -37,8 +37,18 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 
 # Project 7: Hypothesis Testing, Single Regression Analysis, and Gradient Descent
 * Formulated hypothesis given problem statement.
-* Performed regression analysis to test hypothesis. 
+* Performed single regression analysis to test hypothesis. 
 * Accepted/rejected null hypothesis comparing significance of two variables.
 * Performed Gradient Descent analysis.
 * Plotted the loss function over the iterations.
 
+# Project 8: Multiple Regression & Assumption Violations
+* Formulated hypothesis given problem statement.
+* Performed multiple regression analysis to test hypothesis. 
+* Accepted/rejected null hypothesis comparing significance of two variables.
+* Detected assumption violations by testing for the following:
+* 1. Collinearity
+* 2. Model Fit
+* 3. Outliers
+* 4. Linearity & Constant Variance
+* 5. Normality
