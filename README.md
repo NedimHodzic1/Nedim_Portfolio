@@ -1,6 +1,6 @@
 This is my portfolio showcasing Data Science projects I have worked on and developed.
 
-# Project 1: Review of Basic Python Concepts
+# Project 1: Review of Basic Python Concepts (https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%201:%20Review%20of%20Basic%20Python%20Concepts)
 * Wrote fuctions which return the following to the user :
 * 1. String in the YYYY-MM-DD format and an integer n
 * 2. Factorials
