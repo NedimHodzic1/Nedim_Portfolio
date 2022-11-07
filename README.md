@@ -64,8 +64,7 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 * Utilizied PCA to create principal components and created a scree plot
 * Selected 2 components and reran the regression with transformed price to explain variance
 
-# [Predicting Customer Spending]
-(https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%2011:%20Predicting%20Customer%20Spending%20by%20Demographic)
+# [Predicting Customer Spending](https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%2011:%20Predicting%20Customer%20Spending%20by%20Demographic)
 * Developed a model which predicts customer spend by demographic
 * Computed R2 and parameter estimates for model
 * Described findings
