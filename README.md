@@ -52,3 +52,8 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 * Outliers
 * Linearity & Constant Variance
 * Normality
+
+# [Predictive Modeling of Used Car Prices](https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%208:%20Multiple%20Regression%20%26%20Assumption%20Violations)
+* Built a model of transformed car price based on Power, Engine, Kilometers Driven, and Year
+* Filled in missing values with MICE
+* Trained model
