@@ -53,7 +53,14 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 * Linearity & Constant Variance
 * Normality
 
-# [Predictive Modeling of Used Car Prices](https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%208:%20Multiple%20Regression%20%26%20Assumption%20Violations)
+# [Predictive Modeling of Used Car Prices]
+(https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%209:%20Predictive%20Modeling%20with%20Car%20Prices)
 * Built a model of transformed car price based on Power, Engine, Kilometers Driven, and Year
 * Filled in missing values with MICE
 * Trained model
+
+# [VIF & Scree Plotting of Predictive Model](https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%2010:%20VIF%20%26%20Scree%20Plotting%20of%20Predictive%20Model)
+* Built a model of transformed car price based on Power, Engine, Kilometers Driven, and Year
+* Computed VIF of desired variables
+* Utilizied PCA to create principal components and created a scree plot
+* Selected 2 components and reran the regression with transformed price to explain variance
