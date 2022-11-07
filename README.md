@@ -69,7 +69,7 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 * Computed R2 and parameter estimates for model
 * Described findings
 
-# [Ridge, Lasso, and Linear Regression Model Comparison(https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%2012:%20Ridge%2C%20Lasso%2C%20and%20Linear%20Regression%20Model%20Comparison)  
+# [Ridge, Lasso, and Linear Regression Model Comparison](https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%2012:%20Ridge%2C%20Lasso%2C%20and%20Linear%20Regression%20Model%20Comparison)  
 * Built a linear regression model of customer spend data by demographic
 * Built a Ridge model of customer spend data by demographic using sklearn
 * Built a Lasso model of customer spend data by demographic using sklearn
