@@ -74,3 +74,8 @@ This is my portfolio showcasing Data Science projects I have worked on and devel
 * Built a Ridge model of customer spend data by demographic using sklearn
 * Built a Lasso model of customer spend data by demographic using sklearn
 * Compared coefficients and R2 of all three models to determine the optimal model for the dataset.
+
+# [Time Series and Data Differencing](https://github.com/NedimHodzic1/Nedim_Portfolio/tree/main/Project%2013:%20Time%20Series%20and%20Data%20Differencing)  
+* Made data stationary using data differencing methods
+* Generated ACF and PACF plots of the differenced data
+* ARIMA/SARIMA model differentiation
